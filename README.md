@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taranyi
-- 👀 I’m interested in Machine learning, Quantum computing,Visual informatics and Image processing
+- 👀 I’m interested in Machine learning, Quantum computing, Deep Learning, etc
 - 🌱 I’m currently learning at Budapest University of Technology and Economics
 - 📫 How to reach me taranyibalazs@gmail.com
 
