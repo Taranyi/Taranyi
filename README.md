@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Taranyi
+- 👋 Hi, I’m @Balázs Taranyi
 - 👀 I’m interested in Machine learning, Quantum computing, Deep Learning, etc
 - 🌱 I’m currently learning at Budapest University of Technology and Economics
 - 📫 How to reach me taranyibalazs@gmail.com
